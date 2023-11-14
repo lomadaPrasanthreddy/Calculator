@@ -20,6 +20,7 @@ public class Main {
 
             int choice = scanner.nextInt();
 
+
             if (choice == 5) {
                 System.out.println("Calculator is exiting. Goodbye!");
                 break;
