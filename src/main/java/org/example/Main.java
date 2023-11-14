@@ -25,6 +25,7 @@ public class Main {
                 System.out.println("Calculator is exiting. Goodbye!");
                 break;
             }
+            
             System.out.print("Enter the first number: ");
             double num1 = scanner.nextDouble();
             System.out.print("Enter the second number: ");
