@@ -9,8 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        logger.info("Execution Started");
-        
+        logger.info("Execution Started")
         while (true) {
             System.out.println("Choose an operation: ");
             System.out.println("1. Addition (+)");
@@ -26,7 +25,7 @@ public class Main {
                 break;
             }
 
-            
+
             System.out.print("Enter the first number: ");
             double num1 = scanner.nextDouble();
             System.out.print("Enter the second number: ");
